@@ -11,4 +11,4 @@ New PHP Script>>$int1=70;
 >>echo $int1+$int2;
 >>/ "to excute command"
 75
-New PHP Script>>quit  "to exit"
+New PHP Script>>quit  "to exit."
